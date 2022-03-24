@@ -25,6 +25,10 @@ li {
     text-align: center;
 }
 
+.col-sm-6 {
+    text-align: center;
+}
+
 .container1 {
     width: 100%;
 }
