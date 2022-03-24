@@ -1,12 +1,38 @@
 .container-fluid {
     text-align: center;
+    background-color: lightgray;
+}
+
+.text {
+    color: black;
+    font-size: 45px;
 }
 
 p {
     text-align: center;
+    font-size: 20px;
+}
+
+li {
+    font-size: 20px;
 }
 
 .prog {
-    justify-content: center;
-    width: 10em;
+    width: 12em;
+}
+
+.col-sm-4 {
+    text-align: center;
+}
+
+.container1 {
+    width: 100%;
+}
+
+.footer {
+    color: white;
+    width: 100%;
+    padding: 1em;
+    background-color: black;
+    height: 1015;
 }
