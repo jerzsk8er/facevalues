@@ -1,6 +1,6 @@
 .container-fluid {
     text-align: center;
-    background-color: lightgray;
+    background-color: darkgray;
 }
 
 .text {
@@ -21,11 +21,14 @@ li {
     width: 12em;
 }
 
-.col-sm-4 {
-    text-align: center;
+#logo {
+    margin-left:2em;
+    position: absolute;
+    display: flex;
+    width: 20em;
 }
 
-.col-sm-6 {
+.col-sm-4 {
     text-align: center;
 }
 
@@ -38,5 +41,5 @@ li {
     width: 100%;
     padding: 1em;
     background-color: black;
-    height: 1015;
+    height: 10em;
 }
