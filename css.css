@@ -1,6 +1,6 @@
-.container-fluid {
+.header {
     text-align: center;
-    background-color: darkgray;
+    background-image: linear-gradient(#F9ED32, #F7941D );
 }
 
 .text {
