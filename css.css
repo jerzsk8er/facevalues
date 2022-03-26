@@ -22,10 +22,9 @@ li {
 }
 
 #logo {
-    margin-left:2em;
     position: absolute;
-    display: flex;
-    width: 20em;
+    display: inherit;
+    width: 10em;
 }
 
 .col-sm-4 {
